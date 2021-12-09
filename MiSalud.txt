@@ -2,8 +2,17 @@ Hola, este es el commit de prueba
 
 Soy Gustavo
 Holi soy andrea
+Holi soy felix
 
 Agregar nombre de colaboradores del proyecto MiSalud:
 1. Gustavo Alania
+<<<<<<< HEAD
 2. Andrea Huarhuachi
 3. Cristhel
+=======
+<<<<<<< HEAD
+2. Felix Fernandez
+=======
+2. Andrea Huarhuachi
+>>>>>>> 007f6401f4b6528171375d35b315268b3d23d0ee
+>>>>>>> bd72c957ac5ef605d03d511d10e6b5924ae88486
