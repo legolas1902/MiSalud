@@ -1,3 +1,6 @@
 Hola, este es el commit de prueba
 
 Soy Gustavo
+
+Agregar nombre de colaboradores del proyecto MiSalud:
+1. Gustavo Alania
